@@ -12,5 +12,5 @@ int main()
        execcmd[execStartint+i]=URL[i];
     }
     system(execcmd);
-        return 0;
+    return 0;
 }
