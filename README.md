@@ -1,2 +1,4 @@
 # ytdl-mp3downloader
-tiny program i wrote in like 2-3mins to download ytvideos to mp3
+small programm to download videos via youtube-dl and convert to mp3 via FFmpeg
+
+put FFmpeg.exe and youtube-dl in the same folder
